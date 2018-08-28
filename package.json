@@ -1,0 +1,20 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "the start og something great",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app"
+  ],
+  "author": "Zareef Soetodrono",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
